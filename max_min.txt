@@ -1,0 +1,20 @@
+Среднее количество времени на то, чтобы получить уровень:
+	Junior: 32 мес.
+	Middle: 28 мес.
+	Senior: 56 мес.
+Максимальные и минимальные этапы в карьере для разных уровней:
+	Junior:
+		Максимум:10
+		Ссылка:https://hh.ru/resume/85392c7e0008a8b62f0039ed1f727868596638?query=junior+product+manager&source=search&hhtmFrom=resumes_catalog
+		Минимум:1
+		Ссылка:https://hh.ru/resume/83cc136b0008c47c2e0039ed1f6a703177476f?query=junior+product+manager&source=search&hhtmFrom=resumes_catalog
+	Middle:
+		Максимум:7
+		Ссылка:https://hh.ru/resume/85392c7e0008a8b62f0039ed1f727868596638?query=junior+product+manager&source=search&hhtmFrom=resumes_catalog
+		Минимум:3
+		Ссылка:https://hh.ru/resume/83cc136b0008c47c2e0039ed1f6a703177476f?query=junior+product+manager&source=search&hhtmFrom=resumes_catalog
+	Senior:
+		Максимум:10
+		Ссылка:https://hh.ru/resume/85392c7e0008a8b62f0039ed1f727868596638?query=junior+product+manager&source=search&hhtmFrom=resumes_catalog
+		Минимум:3
+		Ссылка:https://hh.ru/resume/83cc136b0008c47c2e0039ed1f6a703177476f?query=junior+product+manager&source=search&hhtmFrom=resumes_catalog
